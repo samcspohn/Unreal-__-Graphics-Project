@@ -670,3 +670,1018 @@ LogInit: Object subsystem initialized
 [2016.12.14-22.33.16:529][127]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/Unreal Projects/Graphics_GameProject/Saved/Beam2B5FCB6D4B232AE0F15904ACEFEE1552.tmp' to '../../../../../../Users/Samuel/Documents/Unreal Projects/Graphics_GameProject/Content/BeamParticle1/Beam.uasset'
 [2016.12.14-22.33.16:534][127]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Samuel/Documents/Unreal Projects/Graphics_GameProject/Content/BeamParticle1/Beam.uasset
 [2016.12.14-22.34.14:625][456]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2016.12.14-22.40.40:782][938]LogEditorViewport: Clicking on Actor (LMB): Emitter (Beam)
+[2016.12.14-22.41.00:231][513]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 111 classes and 0 folders.
+[2016.12.14-22.41.17:735][838]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2016.12.14-22.41.17:826][838]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.14-22.41.17:851][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.14-22.41.17:997][838]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 14, 2016, 10:41:17 AM)
+[2016.12.14-22.41.17:998][838]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.12.14-22.41.18:340][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.342479s)
+[2016.12.14-22.41.18:342][838]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.14-22.41.18:404][838]LogPlayLevel: PIE: World Init took: (0.064286s)
+[2016.12.14-22.41.18:421][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.423049s)
+[2016.12.14-22.41.18:500][838]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 8 channels at 48 kHz using 32 bits per sample (channel mask 0x63f)
+[2016.12.14-22.41.18:595][838]LogInit: FAudioDevice initialized.
+[2016.12.14-22.41.18:866][838]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.12.14-22.41.18:867][838]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.12.14-22.41.18:867][838]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.12.14-22.41.18:867][838]LogLoad: Game class is 'GameModeBase'
+[2016.12.14-22.41.18:929][838]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2016.12.14-16.41.18
+[2016.12.14-22.41.19:247][838]LogWorld: Bringing up level for play took: 0.361470
+[2016.12.14-22.41.19:544][838]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2016.12.14-22.41.19:763][838]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.19:774][838]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.19:908][838]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.975
+[2016.12.14-22.41.19:928][838]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.14-22.41.21:246][838]LogRenderer: Reallocating scene render targets to support 1320x656 NumSamples 1 (Frame:33982).
+[2016.12.14-22.41.28:758][989]LogBlueprintUserMessages: [ThirdPersonCharacter_167] poisoned!
+[2016.12.14-22.41.28:799][990]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.28:799][990]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.28:799][990]LogBlueprintUserMessages: [poisonedDrink] Hello
+[2016.12.14-22.41.29:126][997]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.29:126][997]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.29:126][997]LogBlueprintUserMessages: [poisonedDrink] Hello
+[2016.12.14-22.41.29:168][998]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.29:168][998]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.29:169][998]LogBlueprintUserMessages: [poisonedDrink] Hello
+[2016.12.14-22.41.30:849][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_167] you've been cured
+[2016.12.14-22.41.31:195][ 42]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.31:196][ 42]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.31:666][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_167] no longer posioned!
+[2016.12.14-22.41.33:089][ 82]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.33:089][ 82]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.52:347][487]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.52:347][487]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.54:190][524]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.54:190][524]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.54:191][524]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.54:191][524]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.54:403][528]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.54:403][528]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:142][544]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:142][544]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:187][545]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:187][545]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:232][546]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:233][546]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:371][549]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:371][549]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:418][550]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:419][550]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:470][551]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:470][551]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:521][552]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:521][552]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:572][553]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:572][553]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:619][554]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:619][554]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:668][555]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:668][555]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:717][556]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:717][556]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:766][557]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:766][557]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.55:814][558]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.55:814][558]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.56:923][581]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.56:923][581]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.56:975][582]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.56:975][582]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.57:069][584]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.57:069][584]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.57:116][585]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.57:116][585]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.57:163][586]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.57:163][586]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.57:211][587]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.57:211][587]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.57:258][588]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.57:258][588]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.57:304][589]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.57:304][589]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.41.57:305][589]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] failed to do thing
+[2016.12.14-22.41.57:305][589]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] false
+[2016.12.14-22.42.01:760][681]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] hit a character
+[2016.12.14-22.42.03:710][721]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] hit a character
+[2016.12.14-22.42.05:558][759]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] hit a character
+[2016.12.14-22.42.05:601][760]LogBlueprintUserMessages: [Two-handed_Sword_Blueprint] hit a character
+[2016.12.14-22.42.05:602][760]LogBlueprintUserMessages: [ThirdPersonCharacter_167] you died
+[2016.12.14-22.42.05:680][760]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0:0027
+[2016.12.14-22.42.05:711][760]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:712][760]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0:0046
+[2016.12.14-22.42.05:712][760]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:712][760]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.05:712][760]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0:0027
+[2016.12.14-22.42.05:712][760]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:712][760]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0:0046
+[2016.12.14-22.42.05:712][760]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:712][760]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.05:712][760]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0:0027
+[2016.12.14-22.42.05:712][760]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:712][760]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0:0046
+[2016.12.14-22.42.05:712][760]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:712][760]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.05:731][761]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0:0027
+[2016.12.14-22.42.05:731][761]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:731][761]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0:0046
+[2016.12.14-22.42.05:731][761]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:732][761]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.05:732][761]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0:0027
+[2016.12.14-22.42.05:732][761]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:732][761]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0:0046
+[2016.12.14-22.42.05:732][761]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:732][761]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.05:732][761]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0:0027
+[2016.12.14-22.42.05:732][761]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:732][761]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0:0046
+[2016.12.14-22.42.05:732][761]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:732][761]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.05:808][762]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0:0027
+[2016.12.14-22.42.05:808][762]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:808][762]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0:0046
+[2016.12.14-22.42.05:808][762]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:808][762]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.05:809][762]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0:0027
+[2016.12.14-22.42.05:809][762]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:809][762]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0:0046
+[2016.12.14-22.42.05:809][762]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:809][762]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.05:809][762]LogScript:Warning: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+	MainPlayUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.MainPlayUI_C_0
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0:0027
+[2016.12.14-22.42.05:809][762]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:809][762]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:809][762]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.05:825][763]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:825][763]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:825][763]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.05:825][763]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:825][763]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:825][763]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.05:825][763]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:825][763]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:825][763]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.05:868][764]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:868][764]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:868][764]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.05:868][764]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:868][764]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:868][764]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.05:869][764]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:869][764]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:869][764]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.05:917][765]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:917][765]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:917][765]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.05:917][765]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:917][765]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:917][765]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.05:917][765]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:918][765]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:918][765]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.05:970][766]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:971][766]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:971][766]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.05:971][766]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:971][766]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:971][766]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.05:971][766]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:971][766]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.05:971][766]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:017][767]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:017][767]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:017][767]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:017][767]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:017][767]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:017][767]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:017][767]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:017][767]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:017][767]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:064][768]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:064][768]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:064][768]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:064][768]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:064][768]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:064][768]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:064][768]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:064][768]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:064][768]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:112][769]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:112][769]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:112][769]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:112][769]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:112][769]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:112][769]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:112][769]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:112][769]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:112][769]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:166][770]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:166][770]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:166][770]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:166][770]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:166][770]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:166][770]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:166][770]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:166][770]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:166][770]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:207][771]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:207][771]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:207][771]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:207][771]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:207][771]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:207][771]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:207][771]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:207][771]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:207][771]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:254][772]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:254][772]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:254][772]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:254][772]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:254][772]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:254][772]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:254][772]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:254][772]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:254][772]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:299][773]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:300][773]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:300][773]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:300][773]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:300][773]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:300][773]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:300][773]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:300][773]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:300][773]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:348][774]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:348][774]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:348][774]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:348][774]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:348][774]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:348][774]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:349][774]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:349][774]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:349][774]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:392][775]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:392][775]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:392][775]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:392][775]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:393][775]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:393][775]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:393][775]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:393][775]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:393][775]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:442][776]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:442][776]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:442][776]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:442][776]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:443][776]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:443][776]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:443][776]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:443][776]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:443][776]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:495][777]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:495][777]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:495][777]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:495][777]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:495][777]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:495][777]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:495][777]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:495][777]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:495][777]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:545][778]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:545][778]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:545][778]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:545][778]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:545][778]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:545][778]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:545][778]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:546][778]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:546][778]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:594][779]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:594][779]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:594][779]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:594][779]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:594][779]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:594][779]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:594][779]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:595][779]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:595][779]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:641][780]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:641][780]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:641][780]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:641][780]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:642][780]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:642][780]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:642][780]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:642][780]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:642][780]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:690][781]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:690][781]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:690][781]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:690][781]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:690][781]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:690][781]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:691][781]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:691][781]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:691][781]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:740][782]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:740][782]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:740][782]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:740][782]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:740][782]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:740][782]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:740][782]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:740][782]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:740][782]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:785][783]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:785][783]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:785][783]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:785][783]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:785][783]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:785][783]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:785][783]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:785][783]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:785][783]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:831][784]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:831][784]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:831][784]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:831][784]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:831][784]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:831][784]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:832][784]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:832][784]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:832][784]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:879][785]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:879][785]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:879][785]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:879][785]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:880][785]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:880][785]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:880][785]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:880][785]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:880][785]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:930][786]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:930][786]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:930][786]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:930][786]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:930][786]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:930][786]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:930][786]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:930][786]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:930][786]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.06:978][787]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:978][787]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:978][787]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.06:978][787]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:978][787]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:978][787]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.06:978][787]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:978][787]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.06:978][787]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:022][788]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:022][788]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:022][788]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:022][788]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:023][788]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:023][788]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:023][788]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:023][788]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:023][788]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:072][789]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:072][789]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:072][789]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:072][789]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:072][789]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:072][789]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:072][789]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:072][789]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:072][789]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:120][790]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:120][790]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:120][790]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:121][790]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:121][790]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:121][790]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:121][790]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:121][790]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:121][790]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:165][791]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:165][791]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:165][791]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:165][791]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:165][791]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:165][791]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:165][791]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:165][791]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:165][791]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:166][791]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:166][791]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:166][791]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:166][791]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:166][791]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:166][791]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:166][791]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:166][791]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:166][791]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:216][792]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:216][792]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:216][792]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:216][792]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:217][792]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:217][792]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:217][792]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:217][792]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:217][792]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:264][793]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:264][793]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:264][793]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:264][793]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:264][793]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:264][793]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:264][793]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:265][793]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:265][793]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:310][794]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:310][794]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:310][794]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:310][794]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:310][794]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:310][794]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:310][794]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:311][794]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:311][794]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:355][795]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:355][795]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:356][795]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:356][795]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:356][795]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:356][795]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:356][795]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:356][795]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:356][795]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:405][796]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:405][796]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:405][796]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:405][796]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:405][796]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:406][796]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:406][796]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:406][796]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:406][796]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:453][797]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:453][797]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:453][797]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:453][797]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:453][797]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:453][797]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:453][797]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:453][797]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:453][797]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:505][798]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:506][798]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:506][798]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:506][798]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:506][798]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:506][798]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:506][798]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:506][798]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:506][798]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:552][799]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:553][799]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:553][799]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:553][799]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:553][799]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:553][799]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:553][799]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:553][799]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:553][799]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:601][800]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:601][800]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:601][800]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:601][800]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:601][800]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:602][800]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:602][800]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:602][800]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:602][800]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:647][801]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:647][801]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:647][801]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:647][801]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:648][801]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:648][801]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:648][801]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:648][801]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:648][801]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:698][802]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:698][802]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:698][802]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:698][802]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:698][802]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:698][802]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:699][802]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:699][802]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:699][802]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:741][803]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:741][803]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:741][803]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:741][803]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:741][803]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:741][803]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:741][803]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:741][803]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:741][803]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:792][804]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:792][804]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:792][804]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:792][804]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:792][804]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:792][804]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:792][804]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:792][804]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:792][804]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:837][805]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:837][805]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:837][805]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:837][805]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:837][805]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:837][805]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:837][805]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:837][805]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:837][805]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:884][806]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:884][806]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_HealthBar_Percent_0' from node: Return Node in graph: Get_HealthBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:884][806]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_HealthBar_Percent_0
+
+[2016.12.14-22.42.07:885][806]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:885][806]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_MagicBar_Percent_0' from node: Return Node in graph: Get_MagicBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:885][806]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_MagicBar_Percent_0
+
+[2016.12.14-22.42.07:885][806]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:885][806]PIE:Error: Error Blueprint Runtime Error: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill from function: 'Get_StaminaBar_Percent_0' from node: Return Node in graph: Get_StaminaBar_Percent_0 in object: MainPlayUI with description: Attempted to access ThirdPersonCharacter_167 via property characterReference, but ThirdPersonCharacter_167 is pending kill
+[2016.12.14-22.42.07:885][806]LogScriptCore:Warning: Script Msg: Divide by zero
+Script call stack:
+	Function /Game/Character/MainPlayUI.MainPlayUI_C:Get_StaminaBar_Percent_0
+
+[2016.12.14-22.42.07:949][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.14-22.42.08:376][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'

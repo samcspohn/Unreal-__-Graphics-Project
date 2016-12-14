@@ -1,0 +1,924 @@
+﻿Log file open, 12/11/16 09:30:58
+LogInit:Display: Running engine for game: Graphics_GameProject
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1092092207) SRandInit(-1092092207).
+LogTaskGraph: Started task graph with 5 named threads and 10 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.103278
+LogPluginManager: Loaded Plugin Paper2D, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin GameAnalytics, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Marketplace/GameAnalytics/GameAnalytics.uplugin
+LogPluginManager: Loaded Plugin LowEntryExtStdLib, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Marketplace/LowEntryExtStdLib/LowEntryExtStdLib.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3195953
+LogInit: Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Nov 12 2016 02:14:10
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.12.11-15.30.59:067][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.11-15.30.59:067][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.12.11-15.30.59:116][  0]LogInit: Computer: DESKTOP-VP8TBQJ
+[2016.12.11-15.30.59:116][  0]LogInit: User: samuel
+[2016.12.11-15.30.59:116][  0]LogInit: CPU Page size=65536, Cores=6
+[2016.12.11-15.30.59:116][  0]LogInit: High frequency timer resolution =3.320386 MHz
+[2016.12.11-15.30.59:117][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2016.12.11-15.30.59:117][  0]LogMemory: Platform Memory Stats for Windows
+[2016.12.11-15.30.59:117][  0]LogMemory: Process Physical Memory: 264.84 MB used, 264.84 MB peak
+[2016.12.11-15.30.59:117][  0]LogMemory: Process Virtual Memory: 269.21 MB used, 269.21 MB peak
+[2016.12.11-15.30.59:117][  0]LogMemory: Physical Memory: 7604.71 MB used,  25080.09 MB free, 32684.80 MB total
+[2016.12.11-15.30.59:117][  0]LogMemory: Virtual Memory: 684.75 MB used,  25080.09 MB free, 134217728.00 MB total
+[2016.12.11-15.30.59:934][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.12.11-15.31.01:810][  0]LogD3D11RHI: D3D11 adapters:
+[2016.12.11-15.31.02:410][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2016.12.11-15.31.02:410][  0]LogD3D11RHI:       8144/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2016.12.11-15.31.02:412][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.12.11-15.31.02:412][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.12.11-15.31.02:412][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.12.11-15.31.02:423][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.12.11-15.31.02:423][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2016.12.11-15.31.02:423][  0]LogWindows: EnumDisplayDevices:
+[2016.12.11-15.31.02:424][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2016.12.11-15.31.02:424][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2016.12.11-15.31.02:424][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2016.12.11-15.31.02:424][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2016.12.11-15.31.02:424][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.12.11-15.31.02:424][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2016.12.11-15.31.02:424][  0]LogD3D11RHI:   Driver Version: 376.19 (internal:21.21.13.7619, unified:376.19)
+[2016.12.11-15.31.02:424][  0]LogD3D11RHI:      Driver Date: 12-1-2016
+[2016.12.11-15.31.02:424][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.12.11-15.31.02:983][  0]LogD3D11RHI: Async texture creation enabled
+[2016.12.11-15.31.03:183][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.12.11-15.31.03:226][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Intermediate/Shaders/WorkingDirectory/7908/).
+[2016.12.11-15.31.03:226][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/samuel/AppData/Local/Temp/UnrealShaderWorkingDir/B99FF2F34D49133C4A0528B35ACDE5D9/'.
+[2016.12.11-15.31.03:226][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.12.11-15.31.05:638][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.12.11-15.31.05:697][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2016.12.11-15.31.05:763][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2016.12.11-15.31.05:823][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2016.12.11-15.31.05:900][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2016.12.11-15.31.05:960][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.12.11-15.31.06:028][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.12.11-15.31.06:087][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.12.11-15.31.06:141][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.12.11-15.31.06:212][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.12.11-15.31.06:270][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.12.11-15.31.06:328][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.12.11-15.31.06:390][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.12.11-15.31.06:457][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.12.11-15.31.06:521][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.12.11-15.31.06:658][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.12.11-15.31.06:658][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.12.11-15.31.06:703][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.12.11-15.31.06:874][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.12.11-15.31.06:911][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.12.11-15.31.06:973][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.12.11-15.31.07:031][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.12.11-15.31.07:089][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.12.11-15.31.07:167][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.12.11-15.31.07:167][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.12.11-15.31.08:134][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.12.11-15.31.08:564][  0]LogDerivedDataCache: Loaded boot cache 0.43s 50MB C:/Users/samuel/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.12.11-15.31.08:564][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/samuel/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2016.12.11-15.31.08:564][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.12.11-15.31.08:564][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.12.11-15.31.08:564][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.12.11-15.31.08:564][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.12.11-15.31.08:637][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.12.11-15.31.08:649][  0]LogDerivedDataCache: Using Local data cache path C:/Users/samuel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.12.11-15.31.14:090][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.11-15.31.14:102][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.12.11-15.31.14:495][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2016.12.11-15.31.14:635][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2016.12.11-15.31.14:728][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2016.12.11-15.31.14:728][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2016.12.11-15.31.14:728][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.12.11-15.31.16:755][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: graphics_gameproject, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2358270284
+[2016.12.11-15.31.16:936][  0]LogAssetRegistry: FAssetRegistry took 0.0447 seconds to start up
+[2016.12.11-15.31.17:059][  0]LogPackageLocalizationCache: Processed 4 localized package path(s) for 2 prioritized culture(s) in 0.081247 seconds
+[2016.12.11-15.31.17:065][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2016.12.11-15.31.17:065][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2016.12.11-15.31.17:065][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.12.11-15.31.17:144][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.12.11-15.31.19:141][  0]LogSlate: Using Freetype 2.6.0
+[2016.12.11-15.31.19:168][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.11-15.31.19:168][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.11-15.31.23:994][  0]LogGameAnalyticsAnalytics:Display: FAnalyticsGameAnalytics Constructor
+[2016.12.11-15.31.24:551][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.12.11-15.31.24:624][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.12.11-15.31.25:405][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.12.11-15.31.26:139][  0]SourceControl: Info Source control is disabled
+[2016.12.11-15.31.26:306][  0]SourceControl: Info Source control is disabled
+[2016.12.11-15.31.26:426][  0]SourceControl: Info Source control is disabled
+[2016.12.11-15.31.26:506][  0]SourceControl: Info Source control is disabled
+[2016.12.11-15.31.29:427][  0]LogEngine: Initializing Engine...
+[2016.12.11-15.31.29:443][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.12.11-15.31.29:875][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.12.11-15.31.29:951][  0]LogInit: XAudio2 using 'Speakers (Sound Blaster ZxR)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2016.12.11-15.31.29:975][  0]LogInit: FAudioDevice initialized.
+[2016.12.11-15.31.30:004][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/samuel/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2016.12.11-15.31.30:010][  0]LogInit: Texture streaming: Enabled
+[2016.12.11-15.31.30:424][  0]LogInit: Transaction tracking system initialized
+[2016.12.11-15.31.31:023][  0]BlueprintLog: New page: Editor Load
+[2016.12.11-15.31.32:933][  0]LocalizationService: Info Localization service is disabled
+[2016.12.11-15.31.34:317][  0]LogConsoleResponse:Display: 
+[2016.12.11-15.31.35:036][  0]LogFileCache: Scanning file cache for directory 'D:/Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/' took 0.05s
+[2016.12.11-15.31.35:036][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.12.11-15.31.35:056][  0]LogCook:Display: Mobile HDR setting 1
+[2016.12.11-15.31.37:159][  0]SourceControl: Info Source control is disabled
+[2016.12.11-15.31.59:012][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.11-15.31.59:012][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.11-15.31.59:019][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.11-15.31.59:019][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.11-15.32.03:215][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.11-15.32.03:215][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.11-15.32.03:220][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.11-15.32.03:220][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.11-15.32.03:324][  0]Cmd: MAP LOAD FILE="../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.11-15.32.03:325][  0]LightingResults: New page: Lighting Build
+[2016.12.11-15.32.03:419][  0]MapCheck: New page: Map Check
+[2016.12.11-15.32.03:419][  0]LightingResults: New page: Lighting Build
+[2016.12.11-15.32.04:927][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.11-15.32.05:040][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.11-15.32.05:053][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.11-15.32.05:125][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 71.616ms to complete.
+[2016.12.11-15.32.05:125][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.802
+[2016.12.11-15.32.05:433][  0]LogStats:Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_2924_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_1114_0///####STATCAT_Advanced####
+[2016.12.11-15.32.05:433][  0]LogCollectionManager: Loaded 0 collections in 0.001644 seconds
+[2016.12.11-15.32.05:693][  0]LogFileCache: Scanning file cache for directory 'D:/Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/Collections/' took 0.09s
+[2016.12.11-15.32.05:693][  0]LogFileCache: Scanning file cache for directory 'D:/Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/Developers/samuel/Collections/' took 0.01s
+[2016.12.11-15.32.05:693][  0]LogFileCache: Scanning file cache for directory 'D:/Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/Collections/' took 0.01s
+[2016.12.11-15.32.05:693][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000160 seconds
+[2016.12.11-15.32.05:703][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2217 classes and 442 folders.
+[2016.12.11-15.32.05:794][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.12.11-15.32.05:802][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.008 s
+[2016.12.11-15.32.05:811][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0009 seconds. Added 13 classes and 0 folders.
+[2016.12.11-15.32.05:877][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2016.12.11-15.32.06:465][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2016.12.11-15.32.06:561][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2016.12.11-15.32.06:729][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.12.11-15.32.06:754][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.12.11-15.32.06:932][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2016.12.11-15.32.06:932][  0]LogLoad: (Engine Initialization) Total time: 73.40 seconds
+[2016.12.11-15.32.06:932][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.46 seconds
+[2016.12.11-15.32.06:942][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.12.11-15.32.06:942][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.12.11-15.32.06:952][  0]LogOcInput: OculusInput pre-init called
+[2016.12.11-15.32.07:062][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.12.11-15.32.07:357][  0]LogRenderer: Reallocating scene render targets to support 1340x652 NumSamples 1 (Frame:2).
+[2016.12.11-15.32.07:526][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/' took 0.53s
+[2016.12.11-15.32.07:567][  2]LogAssetRegistry: Asset discovery search completed in 50.6753 seconds
+[2016.12.11-15.32.07:567][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.12.11-15.32.07:567][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000018 seconds (updated 0 objects)
+[2016.12.11-15.32.14:134][671]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 111 classes and 0 folders.
+[2016.12.11-15.34.59:708][152]LogEditorTransaction: Undo Replace Widgets
+[2016.12.11-15.37.51:683][963]BlueprintLog: New page: Compile MainPlayUI
+[2016.12.11-15.37.53:861][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MainPlayUI" FILE="../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/Character/MainPlayUI.uasset" SILENT=true
+[2016.12.11-15.37.53:897][100]LogSavePackage: Save=28.97ms
+[2016.12.11-15.37.53:897][100]LogSavePackage: Moving '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/MainPlayUICB78D7E440090AC2615AF38E0B15E4D3.tmp' to '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/Character/MainPlayUI.uasset'
+[2016.12.11-15.37.53:902][100]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/Character/MainPlayUI.uasset
+[2016.12.11-15.37.55:778][183]BlueprintLog: New page: Compile PlayerCharacter
+[2016.12.11-15.37.57:367][223]LogSavePackage: Save=120.31ms
+[2016.12.11-15.37.57:368][223]LogSavePackage: Moving '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/PlayerCharacter360C98C34830D2B16DC1F7BC212CC031.tmp' to '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2016.12.11-15.37.57:374][223]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2016.12.11-15.38.03:513][510]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.11-15.38.03:529][510]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.38.03:529][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-15.38.03:545][510]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2016, 3:38:03 AM)
+[2016.12.11-15.38.03:545][510]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.12.11-15.38.03:577][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031662s)
+[2016.12.11-15.38.03:578][510]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.11-15.38.03:578][510]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2016.12.11-15.38.03:579][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033383s)
+[2016.12.11-15.38.03:622][510]LogInit: XAudio2 using 'Speakers (Sound Blaster ZxR)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2016.12.11-15.38.03:634][510]LogInit: FAudioDevice initialized.
+[2016.12.11-15.38.03:781][510]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2016.12.11-15.38.03:784][510]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.12.11-09.38.03
+[2016.12.11-15.38.03:784][510]LogWorld: Bringing up level for play took: 0.002707
+[2016.12.11-15.38.03:894][510]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2016.12.11-15.38.03:895][510]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.55
+[2016.12.11-15.38.03:896][510]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.38.13:784][678]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.38.13:883][678]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.39.21:398][407]BlueprintLog: New page: Compile PlayerCharacter
+[2016.12.11-15.39.24:975][614]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.11-15.39.24:988][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.39.24:988][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-15.39.24:988][614]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2016, 3:39:24 AM)
+[2016.12.11-15.39.24:988][614]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.12.11-15.39.25:010][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022496s)
+[2016.12.11-15.39.25:011][614]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.11-15.39.25:012][614]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2016.12.11-15.39.25:012][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024250s)
+[2016.12.11-15.39.25:077][614]LogInit: XAudio2 using 'Speakers (Sound Blaster ZxR)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2016.12.11-15.39.25:089][614]LogInit: FAudioDevice initialized.
+[2016.12.11-15.39.25:117][614]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2016.12.11-15.39.25:123][614]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.12.11-09.39.25
+[2016.12.11-15.39.25:123][614]LogWorld: Bringing up level for play took: 0.004223
+[2016.12.11-15.39.25:126][614]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.68
+[2016.12.11-15.39.25:126][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.39.39:347][306]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.39.39:413][306]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.39.54:353][ 57]BlueprintLog: New page: Compile PlayerCharacter
+[2016.12.11-15.39.57:998][273]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.11-15.39.58:014][273]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.39.58:015][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-15.39.58:015][273]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2016, 3:39:58 AM)
+[2016.12.11-15.39.58:015][273]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.12.11-15.39.58:038][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023069s)
+[2016.12.11-15.39.58:039][273]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.11-15.39.58:039][273]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2016.12.11-15.39.58:039][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024581s)
+[2016.12.11-15.39.58:103][273]LogInit: XAudio2 using 'Speakers (Sound Blaster ZxR)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2016.12.11-15.39.58:116][273]LogInit: FAudioDevice initialized.
+[2016.12.11-15.39.58:150][273]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2016.12.11-15.39.58:154][273]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.12.11-09.39.58
+[2016.12.11-15.39.58:154][273]LogWorld: Bringing up level for play took: 0.003132
+[2016.12.11-15.39.58:156][273]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.29
+[2016.12.11-15.39.58:157][273]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.40.05:101][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.40.05:164][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.42.23:545][570]BlueprintLog: New page: Compile PlayerCharacter
+[2016.12.11-15.42.26:484][772]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.11-15.42.26:497][772]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.42.26:497][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-15.42.26:497][772]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2016, 3:42:26 AM)
+[2016.12.11-15.42.26:497][772]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.12.11-15.42.26:523][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025874s)
+[2016.12.11-15.42.26:524][772]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.11-15.42.26:525][772]LogPlayLevel: PIE: World Init took: (0.001511s)
+[2016.12.11-15.42.26:525][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027796s)
+[2016.12.11-15.42.26:576][772]LogInit: XAudio2 using 'Speakers (Sound Blaster ZxR)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2016.12.11-15.42.26:592][772]LogInit: FAudioDevice initialized.
+[2016.12.11-15.42.26:625][772]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2016.12.11-15.42.26:630][772]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.12.11-09.42.26
+[2016.12.11-15.42.26:630][772]LogWorld: Bringing up level for play took: 0.003681
+[2016.12.11-15.42.26:632][772]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.187
+[2016.12.11-15.42.26:633][772]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.42.38:018][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.42.38:080][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.43.19:230][912]LogSavePackage: Save=143.53ms
+[2016.12.11-15.43.19:230][912]LogSavePackage: Moving '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/ThirdPersonExampleMap_Auto1D53B76744FA65FFB6FFB2794B95FBC76.tmp' to '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2016.12.11-15.43.19:233][912]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2016.12.11-15.43.19:236][912]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.181
+[2016.12.11-15.43.19:236][912]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.181
+[2016.12.11-15.43.19:239][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/PlayerCharacter] ([1] browsable assets)...
+[2016.12.11-15.43.19:260][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/PlayerCharacter.PlayerCharacter]
+[2016.12.11-15.43.19:260][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/PlayerCharacter]
+[2016.12.11-15.43.19:378][912]LogSavePackage: Save=112.27ms
+[2016.12.11-15.43.19:379][912]LogSavePackage: Moving '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/PlayerCharacter_Auto1CC70F6FC461B3132CB970B8FF54DC650.tmp' to '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PlayerCharacter_Auto1.uasset'
+[2016.12.11-15.43.19:381][912]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PlayerCharacter_Auto1.uasset
+[2016.12.11-15.43.19:382][912]LogFileHelpers: Auto-saving content packages took 0.145
+[2016.12.11-15.45.39:730][998]BlueprintLog: New page: Compile PlayerCharacter
+[2016.12.11-15.45.41:301][ 42]LogSavePackage: Save=114.97ms
+[2016.12.11-15.45.41:301][ 42]LogSavePackage: Moving '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/PlayerCharacter78FF2F2743E89B42F8F01BB25BA188C2.tmp' to '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2016.12.11-15.45.41:305][ 42]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2016.12.11-15.45.50:838][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2016.12.11-15.45.51:779][720]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.11-15.45.51:792][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.45.51:792][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-15.45.51:793][720]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2016, 3:45:51 AM)
+[2016.12.11-15.45.51:793][720]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.12.11-15.45.51:816][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022756s)
+[2016.12.11-15.45.51:817][720]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.11-15.45.51:818][720]LogPlayLevel: PIE: World Init took: (0.002014s)
+[2016.12.11-15.45.51:818][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025158s)
+[2016.12.11-15.45.51:864][720]LogInit: XAudio2 using 'Speakers (Sound Blaster ZxR)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2016.12.11-15.45.51:876][720]LogInit: FAudioDevice initialized.
+[2016.12.11-15.45.51:908][720]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2016.12.11-15.45.51:911][720]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.12.11-09.45.51
+[2016.12.11-15.45.51:912][720]LogWorld: Bringing up level for play took: 0.002938
+[2016.12.11-15.45.51:914][720]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.532
+[2016.12.11-15.45.51:914][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.45.55:262][921]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.1
+[2016.12.11-15.45.58:088][107]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.091
+[2016.12.11-15.45.59:162][178]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.083
+[2016.12.11-15.45.59:770][217]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.077
+[2016.12.11-15.46.00:028][234]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.071
+[2016.12.11-15.46.00:812][286]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.067
+[2016.12.11-15.46.00:965][296]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.062
+[2016.12.11-15.46.01:194][311]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.059
+[2016.12.11-15.46.01:856][355]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.056
+[2016.12.11-15.46.02:083][370]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.053
+[2016.12.11-15.46.02:207][378]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.05
+[2016.12.11-15.46.02:865][422]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.048
+[2016.12.11-15.46.03:003][431]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.045
+[2016.12.11-15.46.03:232][446]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.043
+[2016.12.11-15.46.03:353][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.042
+[2016.12.11-15.46.03:488][463]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.04
+[2016.12.11-15.46.03:610][471]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.038
+[2016.12.11-15.46.03:762][481]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.037
+[2016.12.11-15.46.04:489][529]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.036
+[2016.12.11-15.46.04:627][538]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.034
+[2016.12.11-15.46.04:749][546]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.033
+[2016.12.11-15.46.04:857][553]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.032
+[2016.12.11-15.46.05:054][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.031
+[2016.12.11-15.46.06:066][633]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.03
+[2016.12.11-15.46.07:002][695]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.029
+[2016.12.11-15.46.07:830][748]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.029
+[2016.12.11-15.46.08:044][762]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.028
+[2016.12.11-15.46.08:209][773]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.027
+[2016.12.11-15.46.08:333][781]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.026
+[2016.12.11-15.46.10:127][900]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.026
+[2016.12.11-15.46.11:735][  5]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.025
+[2016.12.11-15.46.12:339][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.024
+[2016.12.11-15.46.12:536][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.024
+[2016.12.11-15.46.12:703][ 69]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.023
+[2016.12.11-15.46.12:855][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.023
+[2016.12.11-15.46.14:582][193]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.022
+[2016.12.11-15.46.14:962][218]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.022
+[2016.12.11-15.46.15:297][240]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.021
+[2016.12.11-15.46.15:840][276]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.021
+[2016.12.11-15.46.16:260][304]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.02
+[2016.12.11-15.46.16:597][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.02
+[2016.12.11-15.46.17:035][355]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.02
+[2016.12.11-15.46.17:275][371]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.019
+[2016.12.11-15.46.17:501][386]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.019
+[2016.12.11-15.46.21:696][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.46.21:777][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.46.48:815][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.12.11-15.46.49:700][ 90]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.11-15.46.49:715][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.46.49:715][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-15.46.49:715][ 90]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2016, 3:46:49 AM)
+[2016.12.11-15.46.49:715][ 90]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.12.11-15.46.49:740][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025355s)
+[2016.12.11-15.46.49:742][ 90]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.11-15.46.49:742][ 90]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2016.12.11-15.46.49:742][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027201s)
+[2016.12.11-15.46.49:786][ 90]LogInit: XAudio2 using 'Speakers (Sound Blaster ZxR)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2016.12.11-15.46.49:798][ 90]LogInit: FAudioDevice initialized.
+[2016.12.11-15.46.49:826][ 90]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2016.12.11-15.46.49:829][ 90]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.12.11-09.46.49
+[2016.12.11-15.46.49:830][ 90]LogWorld: Bringing up level for play took: 0.003003
+[2016.12.11-15.46.49:832][ 90]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.614
+[2016.12.11-15.46.49:832][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.47.00:872][794]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.1
+[2016.12.11-15.47.02:160][879]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.091
+[2016.12.11-15.47.03:524][970]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.083
+[2016.12.11-15.47.03:795][988]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.077
+[2016.12.11-15.47.04:600][ 41]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.071
+[2016.12.11-15.47.04:817][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.067
+[2016.12.11-15.47.05:311][ 87]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.062
+[2016.12.11-15.47.05:494][ 99]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.059
+[2016.12.11-15.47.05:675][111]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.056
+[2016.12.11-15.47.05:851][123]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.053
+[2016.12.11-15.47.06:381][158]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.05
+[2016.12.11-15.47.06:549][169]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.048
+[2016.12.11-15.47.06:716][180]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.045
+[2016.12.11-15.47.07:251][215]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.043
+[2016.12.11-15.47.07:432][227]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.042
+[2016.12.11-15.47.07:584][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.04
+[2016.12.11-15.47.07:734][247]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.038
+[2016.12.11-15.47.07:889][257]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.037
+[2016.12.11-15.47.08:222][279]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.036
+[2016.12.11-15.47.08:389][290]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.034
+[2016.12.11-15.47.08:538][300]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.033
+[2016.12.11-15.47.08:647][307]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.032
+[2016.12.11-15.47.08:926][325]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.031
+[2016.12.11-15.47.09:967][394]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.03
+[2016.12.11-15.47.10:103][403]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.029
+[2016.12.11-15.47.10:240][412]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.029
+[2016.12.11-15.47.10:392][422]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.028
+[2016.12.11-15.47.10:540][432]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.027
+[2016.12.11-15.47.10:708][443]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.026
+[2016.12.11-15.47.10:862][453]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.026
+[2016.12.11-15.47.11:011][463]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.025
+[2016.12.11-15.47.11:160][473]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.024
+[2016.12.11-15.47.11:265][480]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.024
+[2016.12.11-15.47.11:418][490]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.023
+[2016.12.11-15.47.11:568][500]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.023
+[2016.12.11-15.47.11:718][510]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.022
+[2016.12.11-15.47.11:873][520]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.022
+[2016.12.11-15.47.12:027][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.021
+[2016.12.11-15.47.12:166][539]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.021
+[2016.12.11-15.47.12:332][550]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.02
+[2016.12.11-15.47.12:482][560]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.02
+[2016.12.11-15.47.12:636][570]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.02
+[2016.12.11-15.47.12:790][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.019
+[2016.12.11-15.47.12:943][590]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.019
+[2016.12.11-15.47.13:096][600]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.019
+[2016.12.11-15.47.13:249][610]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.018
+[2016.12.11-15.47.13:385][619]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.018
+[2016.12.11-15.47.13:538][629]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.018
+[2016.12.11-15.47.13:705][640]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.017
+[2016.12.11-15.47.13:870][651]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.017
+[2016.12.11-15.47.14:054][663]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.017
+[2016.12.11-15.47.14:220][674]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.016
+[2016.12.11-15.47.14:388][685]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.016
+[2016.12.11-15.47.14:554][696]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.016
+[2016.12.11-15.47.14:708][706]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.016
+[2016.12.11-15.47.14:862][716]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.015
+[2016.12.11-15.47.15:014][726]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.015
+[2016.12.11-15.47.15:200][738]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.015
+[2016.12.11-15.47.15:352][748]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.015
+[2016.12.11-15.47.15:503][758]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.014
+[2016.12.11-15.47.15:658][768]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.014
+[2016.12.11-15.47.15:825][779]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.014
+[2016.12.11-15.47.15:978][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.014
+[2016.12.11-15.47.17:314][877]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.47.17:402][877]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.47.54:949][ 40]BlueprintLog: New page: Compile PlayerCharacter
+[2016.12.11-15.47.57:954][169]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.11-15.47.57:968][169]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.47.57:969][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-15.47.57:969][169]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2016, 3:47:57 AM)
+[2016.12.11-15.47.57:969][169]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.12.11-15.47.57:992][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023083s)
+[2016.12.11-15.47.57:993][169]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.11-15.47.57:993][169]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2016.12.11-15.47.57:993][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024506s)
+[2016.12.11-15.47.58:049][169]LogInit: XAudio2 using 'Speakers (Sound Blaster ZxR)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2016.12.11-15.47.58:064][169]LogInit: FAudioDevice initialized.
+[2016.12.11-15.47.58:098][169]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2016.12.11-15.47.58:102][169]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.12.11-09.47.58
+[2016.12.11-15.47.58:103][169]LogWorld: Bringing up level for play took: 0.003797
+[2016.12.11-15.47.58:105][169]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.341
+[2016.12.11-15.47.58:105][169]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.48.03:065][483]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.1
+[2016.12.11-15.48.03:695][525]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.2
+[2016.12.11-15.48.04:027][547]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.3
+[2016.12.11-15.48.04:194][558]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.4
+[2016.12.11-15.48.04:350][568]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.5
+[2016.12.11-15.48.04:517][579]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.6
+[2016.12.11-15.48.04:655][588]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.7
+[2016.12.11-15.48.04:808][598]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.8
+[2016.12.11-15.48.04:963][608]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 1.9
+[2016.12.11-15.48.05:414][638]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2
+[2016.12.11-15.48.05:581][649]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2.1
+[2016.12.11-15.48.05:733][659]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2.2
+[2016.12.11-15.48.05:975][675]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2.3
+[2016.12.11-15.48.08:492][843]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 2.4
+[2016.12.11-15.48.08:795][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.48.08:881][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.49.57:043][595]BlueprintLog: New page: Compile PlayerCharacter
+[2016.12.11-15.49.59:893][731]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.11-15.49.59:910][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.49.59:910][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-15.49.59:910][731]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2016, 3:49:59 AM)
+[2016.12.11-15.49.59:910][731]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.12.11-15.49.59:933][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023123s)
+[2016.12.11-15.49.59:934][731]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.11-15.49.59:935][731]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2016.12.11-15.49.59:935][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024661s)
+[2016.12.11-15.49.59:993][731]LogInit: XAudio2 using 'Speakers (Sound Blaster ZxR)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2016.12.11-15.50.00:006][731]LogInit: FAudioDevice initialized.
+[2016.12.11-15.50.00:036][731]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2016.12.11-15.50.00:040][731]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.12.11-09.50.00
+[2016.12.11-15.50.00:040][731]LogWorld: Bringing up level for play took: 0.003084
+[2016.12.11-15.50.00:042][731]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.404
+[2016.12.11-15.50.00:042][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.50.08:072][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.50.08:153][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.52.40:152][112]BlueprintLog: New page: Compile PlayerCharacter
+[2016.12.11-15.52.42:534][198]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.11-15.52.42:550][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.52.42:550][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-15.52.42:550][198]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2016, 3:52:42 AM)
+[2016.12.11-15.52.42:550][198]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.12.11-15.52.42:574][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024194s)
+[2016.12.11-15.52.42:575][198]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.11-15.52.42:576][198]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2016.12.11-15.52.42:576][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025611s)
+[2016.12.11-15.52.42:628][198]LogInit: XAudio2 using 'Speakers (Sound Blaster ZxR)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2016.12.11-15.52.42:641][198]LogInit: FAudioDevice initialized.
+[2016.12.11-15.52.42:673][198]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2016.12.11-15.52.42:678][198]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.12.11-09.52.42
+[2016.12.11-15.52.42:679][198]LogWorld: Bringing up level for play took: 0.003956
+[2016.12.11-15.52.42:681][198]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.235
+[2016.12.11-15.52.42:681][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.52.55:379][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.52.55:464][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.53.02:828][493]LogTemp: Repeting last play command: Selected Viewport
+[2016.12.11-15.53.02:841][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.53.02:841][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.11-15.53.02:841][493]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 11, 2016, 3:53:02 AM)
+[2016.12.11-15.53.02:842][493]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.12.11-15.53.02:860][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018140s)
+[2016.12.11-15.53.02:861][493]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.12.11-15.53.02:861][493]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2016.12.11-15.53.02:861][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019795s)
+[2016.12.11-15.53.02:906][493]LogInit: XAudio2 using 'Speakers (Sound Blaster ZxR)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2016.12.11-15.53.02:917][493]LogInit: FAudioDevice initialized.
+[2016.12.11-15.53.02:946][493]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2016.12.11-15.53.02:950][493]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.12.11-09.53.02
+[2016.12.11-15.53.02:950][493]LogWorld: Bringing up level for play took: 0.002988
+[2016.12.11-15.53.02:952][493]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.506
+[2016.12.11-15.53.02:952][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.53.17:634][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.53.17:718][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.12.11-15.54.41:719][106]LogEditorTransaction: Undo Move Widgets
+[2016.12.11-15.54.48:983][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/MainPlayUI" FILE="../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/Character/MainPlayUI.uasset" SILENT=true
+[2016.12.11-15.54.49:024][515]LogSavePackage: Save=35.25ms
+[2016.12.11-15.54.49:024][515]LogSavePackage: Moving '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/MainPlayUI8E0619E742E2D54E29A2739D6B5FE48E.tmp' to '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/Character/MainPlayUI.uasset'
+[2016.12.11-15.54.49:029][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/Character/MainPlayUI.uasset
+[2016.12.11-15.54.55:346][854]LogSavePackage: Save=112.56ms
+[2016.12.11-15.54.55:346][854]LogSavePackage: Moving '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/PlayerCharacter9D1CED7D4D40AA0CFD8D80B5EB69B88E.tmp' to '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset'
+[2016.12.11-15.54.55:351][854]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/ThirdPersonBP/Blueprints/PlayerCharacter.uasset
+[2016.12.11-15.55.01:331][169]LogSavePackage: Save=144.03ms
+[2016.12.11-15.55.01:331][169]LogSavePackage: Moving '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/ThirdPersonExampleMap7BA2FD8542F97773B5DABD9209C7143D.tmp' to '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2016.12.11-15.55.01:336][169]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2016.12.11-15.55.01:497][169]LogSavePackage: Save=132.83ms
+[2016.12.11-15.55.01:497][169]LogSavePackage: Moving '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/ThirdPersonExampleMap_BuiltDataA18B1422435FB0B60D932DBA02AD4EA2.tmp' to '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2016.12.11-15.55.01:499][169]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2016.12.11-15.55.18:140][627]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.11-15.55.18:141][627]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.11-15.55.18:380][628]Cmd: QUIT_EDITOR
+[2016.12.11-15.55.18:660][628]LogExit: Preparing to exit.
+[2016.12.11-15.55.19:543][628]LogDirectoryWatcher: A directory notification for 'D:/Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/' was aborted.
+[2016.12.11-15.55.19:633][628]LogExit: Editor shut down
+[2016.12.11-15.55.19:634][628]LogExit: Transaction tracking system shut down
+[2016.12.11-15.55.20:394][628]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.11-15.55.20:395][628]LogExit: Object subsystem successfully closed.
+[2016.12.11-15.55.20:660][628]LogD3D11RHI: Shutdown
+[2016.12.11-15.55.20:660][628]LogD3D11RHI: CleanupD3DDevice
+[2016.12.11-15.55.20:802][628]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.11-15.55.21:122][628]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.12.11-15.55.21:122][628]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19AE366C-45FC-C47B-BFEE-709BDD99C602%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.0-3195953%2B%2B%2BUE4%2BRelease-4.14&UserID=06ea44324934089b458e6d9714b6b963%7C2ee55ec923144c5bad7133086fc1f4ac%7C4a6d8c3e-e4a9-49a7-a254-9b0e0d311fae&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.12.11-15.55.21:186][628]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (249)
+[2016.12.11-15.55.21:186][628]LogModuleManager: Shutting down and abandoning module SequencerWidgets (248)
+[2016.12.11-15.55.21:186][628]LogModuleManager: Shutting down and abandoning module BlueprintGraph (247)
+[2016.12.11-15.55.21:186][628]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (246)
+[2016.12.11-15.55.21:219][628]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (245)
+[2016.12.11-15.55.21:226][628]LogModuleManager: Shutting down and abandoning module CrashTracker (244)
+[2016.12.11-15.55.21:226][628]LogModuleManager: Shutting down and abandoning module SceneOutliner (243)
+[2016.12.11-15.55.21:226][628]LogModuleManager: Shutting down and abandoning module WidgetCarousel (242)
+[2016.12.11-15.55.21:226][628]LogModuleManager: Shutting down and abandoning module AddContentDialog (241)
+[2016.12.11-15.55.21:239][628]LogDirectoryWatcher: A directory notification for 'D:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2016.12.11-15.55.21:240][628]LogModuleManager: Shutting down and abandoning module GameplayTags (240)
+[2016.12.11-15.55.21:240][628]LogModuleManager: Shutting down and abandoning module EditorWidgets (239)
+[2016.12.11-15.55.21:240][628]LogModuleManager: Shutting down and abandoning module CollectionManager (238)
+[2016.12.11-15.55.21:249][628]LogDirectoryWatcher: A directory notification for 'D:/Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/Collections/' was aborted.
+[2016.12.11-15.55.21:250][628]LogDirectoryWatcher: A directory notification for 'D:/Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/Developers/samuel/Collections/' was aborted.
+[2016.12.11-15.55.21:250][628]LogDirectoryWatcher: A directory notification for 'D:/Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Saved/Collections/' was aborted.
+[2016.12.11-15.55.21:250][628]LogModuleManager: Shutting down and abandoning module StatsViewer (237)
+[2016.12.11-15.55.21:269][628]LogModuleManager: Shutting down and abandoning module FoliageEdit (236)
+[2016.12.11-15.55.21:269][628]LogModuleManager: Shutting down and abandoning module LandscapeEditor (235)
+[2016.12.11-15.55.21:289][628]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (234)
+[2016.12.11-15.55.21:289][628]LogModuleManager: Shutting down and abandoning module ActorPickerMode (233)
+[2016.12.11-15.55.21:289][628]LogModuleManager: Shutting down and abandoning module GeometryMode (232)
+[2016.12.11-15.55.21:289][628]LogModuleManager: Shutting down and abandoning module TextureAlignMode (231)
+[2016.12.11-15.55.21:289][628]LogModuleManager: Shutting down and abandoning module BspMode (230)
+[2016.12.11-15.55.21:289][628]LogModuleManager: Shutting down and abandoning module HardwareSurvey (229)
+[2016.12.11-15.55.21:289][628]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (228)
+[2016.12.11-15.55.21:289][628]LogModuleManager: Shutting down and abandoning module AutomationWorker (227)
+[2016.12.11-15.55.21:289][628]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (226)
+[2016.12.11-15.55.21:289][628]LogModuleManager: Shutting down and abandoning module PlacementMode (225)
+[2016.12.11-15.55.21:297][628]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (224)
+[2016.12.11-15.55.21:314][628]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (223)
+[2016.12.11-15.55.21:314][628]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (222)
+[2016.12.11-15.55.21:314][628]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (221)
+[2016.12.11-15.55.21:314][628]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (220)
+[2016.12.11-15.55.21:314][628]LogModuleManager: Shutting down and abandoning module Media (219)
+[2016.12.11-15.55.21:314][628]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (218)
+[2016.12.11-15.55.21:314][628]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (217)
+[2016.12.11-15.55.21:314][628]LogModuleManager: Shutting down and abandoning module CharacterAI (216)
+[2016.12.11-15.55.21:314][628]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2016.12.11-15.55.21:336][628]LogModuleManager: Shutting down and abandoning module AudioCapture (214)
+[2016.12.11-15.55.21:336][628]LogModuleManager: Shutting down and abandoning module SmartSnapping (213)
+[2016.12.11-15.55.21:336][628]LogModuleManager: Shutting down and abandoning module SessionServices (212)
+[2016.12.11-15.55.21:336][628]LogModuleManager: Shutting down and abandoning module ViewportSnapping (211)
+[2016.12.11-15.55.21:336][628]LogModuleManager: Shutting down and abandoning module ViewportInteraction (210)
+[2016.12.11-15.55.21:336][628]LogModuleManager: Shutting down and abandoning module LogVisualizer (209)
+[2016.12.11-15.55.21:345][628]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (208)
+[2016.12.11-15.55.21:368][628]LogModuleManager: Shutting down and abandoning module IntroTutorials (207)
+[2016.12.11-15.55.21:380][628]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (206)
+[2016.12.11-15.55.21:380][628]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (205)
+[2016.12.11-15.55.21:398][628]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (204)
+[2016.12.11-15.55.21:398][628]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (203)
+[2016.12.11-15.55.22:312][628]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (202)
+[2016.12.11-15.55.22:312][628]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (201)
+[2016.12.11-15.55.22:312][628]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (200)
+[2016.12.11-15.55.22:312][628]LogModuleManager: Shutting down and abandoning module InputBindingEditor (199)
+[2016.12.11-15.55.22:312][628]LogModuleManager: Shutting down and abandoning module NiagaraEditor (198)
+[2016.12.11-15.55.22:339][628]LogModuleManager: Shutting down and abandoning module MergeActors (197)
+[2016.12.11-15.55.22:349][628]LogModuleManager: Shutting down and abandoning module SizeMap (196)
+[2016.12.11-15.55.22:349][628]LogModuleManager: Shutting down and abandoning module TreeMap (195)
+[2016.12.11-15.55.22:356][628]LogModuleManager: Shutting down and abandoning module ReferenceViewer (194)
+[2016.12.11-15.55.22:356][628]LogModuleManager: Shutting down and abandoning module LocalizationService (193)
+[2016.12.11-15.55.22:356][628]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (192)
+[2016.12.11-15.55.22:377][628]LogModuleManager: Shutting down and abandoning module HardwareTargeting (191)
+[2016.12.11-15.55.22:377][628]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (190)
+[2016.12.11-15.55.22:380][628]LogModuleManager: Shutting down and abandoning module UndoHistory (189)
+[2016.12.11-15.55.22:390][628]LogModuleManager: Shutting down and abandoning module UserFeedback (188)
+[2016.12.11-15.55.22:390][628]LogModuleManager: Shutting down and abandoning module XmlParser (187)
+[2016.12.11-15.55.22:390][628]LogModuleManager: Shutting down and abandoning module Blutility (186)
+[2016.12.11-15.55.22:390][628]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (185)
+[2016.12.11-15.55.22:391][628]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (184)
+[2016.12.11-15.55.22:391][628]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (183)
+[2016.12.11-15.55.22:391][628]LogModuleManager: Shutting down and abandoning module SettingsEditor (182)
+[2016.12.11-15.55.22:391][628]LogModuleManager: Shutting down and abandoning module ProjectLauncher (181)
+[2016.12.11-15.55.22:420][628]LogModuleManager: Shutting down and abandoning module SessionFrontend (180)
+[2016.12.11-15.55.22:423][628]LogModuleManager: Shutting down and abandoning module ProfilerClient (179)
+[2016.12.11-15.55.22:439][628]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (178)
+[2016.12.11-15.55.22:439][628]LogModuleManager: Shutting down and abandoning module DeviceManager (177)
+[2016.12.11-15.55.22:498][628]LogModuleManager: Shutting down and abandoning module AutomationController (176)
+[2016.12.11-15.55.22:498][628]LogModuleManager: Shutting down and abandoning module AutomationWindow (175)
+[2016.12.11-15.55.22:521][628]LogModuleManager: Shutting down and abandoning module Layers (174)
+[2016.12.11-15.55.22:534][628]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (173)
+[2016.12.11-15.55.22:534][628]LogModuleManager: Shutting down and abandoning module DetailCustomizations (172)
+[2016.12.11-15.55.22:544][628]LogModuleManager: Shutting down and abandoning module PackagesDialog (171)
+[2016.12.11-15.55.22:558][628]LogModuleManager: Shutting down and abandoning module AnimGraph (170)
+[2016.12.11-15.55.22:558][628]LogModuleManager: Shutting down and abandoning module Persona (169)
+[2016.12.11-15.55.22:567][628]LogModuleManager: Shutting down and abandoning module Kismet (168)
+[2016.12.11-15.55.22:578][628]LogModuleManager: Shutting down and abandoning module GraphEditor (167)
+[2016.12.11-15.55.22:578][628]LogModuleManager: Shutting down and abandoning module ClassViewer (166)
+[2016.12.11-15.55.22:578][628]LogModuleManager: Shutting down and abandoning module Toolbox (165)
+[2016.12.11-15.55.22:578][628]LogModuleManager: Shutting down and abandoning module ModuleUI (164)
+[2016.12.11-15.55.22:591][628]LogModuleManager: Shutting down and abandoning module MovieSceneTools (163)
+[2016.12.11-15.55.22:602][628]LogModuleManager: Shutting down and abandoning module OutputLog (162)
+[2016.12.11-15.55.22:631][628]LogModuleManager: Shutting down and abandoning module GammaUI (161)
+[2016.12.11-15.55.22:637][628]LogModuleManager: Shutting down and abandoning module Documentation (160)
+[2016.12.11-15.55.22:637][628]LogModuleManager: Shutting down and abandoning module Niagara (159)
+[2016.12.11-15.55.22:637][628]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (158)
+[2016.12.11-15.55.22:637][628]LogModuleManager: Shutting down and abandoning module AnalyticsET (157)
+[2016.12.11-15.55.22:637][628]LogModuleManager: Shutting down and abandoning module PortalServices (156)
+[2016.12.11-15.55.22:637][628]LogModuleManager: Shutting down and abandoning module PortalRpc (155)
+[2016.12.11-15.55.22:637][628]LogModuleManager: Shutting down and abandoning module MessagingRpc (154)
+[2016.12.11-15.55.22:637][628]LogModuleManager: Shutting down and abandoning module GameplayDebugger (153)
+[2016.12.11-15.55.22:637][628]LogModuleManager: Shutting down and abandoning module AITestSuite (152)
+[2016.12.11-15.55.22:637][628]LogModuleManager: Shutting down and abandoning module AIModule (151)
+[2016.12.11-15.55.22:637][628]LogModuleManager: Shutting down and abandoning module ProfilerService (150)
+[2016.12.11-15.55.22:675][628]LogModuleManager: Shutting down and abandoning module TaskGraph (149)
+[2016.12.11-15.55.22:690][628]LogModuleManager: Shutting down and abandoning module SlateRemote (148)
+[2016.12.11-15.55.22:690][628]LogModuleManager: Shutting down and abandoning module SteamVRController (147)
+[2016.12.11-15.55.22:690][628]LogModuleManager: Shutting down and abandoning module SteamVR (146)
+[2016.12.11-15.55.22:690][628]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (145)
+[2016.12.11-15.55.22:690][628]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (144)
+[2016.12.11-15.55.22:693][628]LogModuleManager: Shutting down and abandoning module OculusLibrary (143)
+[2016.12.11-15.55.22:693][628]LogModuleManager: Shutting down and abandoning module OculusInput (142)
+[2016.12.11-15.55.22:693][628]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (141)
+[2016.12.11-15.55.22:693][628]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (140)
+[2016.12.11-15.55.22:693][628]LogModuleManager: Shutting down and abandoning module CableComponent (139)
+[2016.12.11-15.55.22:693][628]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (138)
+[2016.12.11-15.55.22:693][628]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (136)
+[2016.12.11-15.55.22:716][628]LogModuleManager: Shutting down and abandoning module LowEntryExtendedStandardLibraryEditor (135)
+[2016.12.11-15.55.22:716][628]LogModuleManager: Shutting down and abandoning module HTML5Networking (134)
+[2016.12.11-15.55.22:716][628]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (133)
+[2016.12.11-15.55.22:716][628]LogModuleManager: Shutting down and abandoning module GeometryCache (132)
+[2016.12.11-15.55.22:716][628]LogModuleManager: Shutting down and abandoning module AlembicLibrary (131)
+[2016.12.11-15.55.22:726][628]LogModuleManager: Shutting down and abandoning module AlembicImporter (130)
+[2016.12.11-15.55.22:733][628]LogModuleManager: Shutting down and abandoning module SuperSearch (129)
+[2016.12.11-15.55.22:733][628]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (128)
+[2016.12.11-15.55.22:733][628]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (127)
+[2016.12.11-15.55.22:733][628]LogModuleManager: Shutting down and abandoning module PluginBrowser (126)
+[2016.12.11-15.55.22:737][628]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (125)
+[2016.12.11-15.55.22:751][628]LogModuleManager: Shutting down and abandoning module EpicSurvey (124)
+[2016.12.11-15.55.22:751][628]LogModuleManager: Shutting down and abandoning module DesktopPlatform (123)
+[2016.12.11-15.55.22:752][628]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (122)
+[2016.12.11-15.55.22:752][628]LogModuleManager: Shutting down and abandoning module UObjectPlugin (121)
+[2016.12.11-15.55.22:752][628]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (120)
+[2016.12.11-15.55.22:752][628]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (119)
+[2016.12.11-15.55.22:755][628]LogModuleManager: Shutting down and abandoning module SourceControl (118)
+[2016.12.11-15.55.22:755][628]LogModuleManager: Shutting down and abandoning module GitSourceControl (117)
+[2016.12.11-15.55.22:755][628]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (116)
+[2016.12.11-15.55.22:755][628]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (115)
+[2016.12.11-15.55.22:755][628]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (114)
+[2016.12.11-15.55.22:755][628]LogModuleManager: Shutting down and abandoning module MeshPaint (113)
+[2016.12.11-15.55.22:755][628]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (112)
+[2016.12.11-15.55.22:755][628]LogModuleManager: Shutting down and abandoning module HotReload (111)
+[2016.12.11-15.55.22:756][628]LogModuleManager: Shutting down and abandoning module MainFrame (110)
+[2016.12.11-15.55.22:756][628]LogModuleManager: Shutting down and abandoning module LevelEditor (109)
+[2016.12.11-15.55.22:766][628]LogModuleManager: Shutting down and abandoning module ContentBrowser (108)
+[2016.12.11-15.55.22:767][628]LogModuleManager: Shutting down and abandoning module Paper2DEditor (107)
+[2016.12.11-15.55.22:771][628]LogModuleManager: Shutting down and abandoning module UdpMessaging (106)
+[2016.12.11-15.55.22:871][628]LogModuleManager: Shutting down and abandoning module TcpMessaging (105)
+[2016.12.11-15.55.22:971][628]LogModuleManager: Shutting down and abandoning module LowEntryExtendedStandardLibrary (104)
+[2016.12.11-15.55.22:971][628]LogModuleManager: Shutting down and abandoning module GameAnalyticsEditor (103)
+[2016.12.11-15.55.22:971][628]LogModuleManager: Shutting down and abandoning module GameAnalytics (102)
+[2016.12.11-15.55.22:971][628]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2016.12.11-15.55.22:971][628]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2016.12.11-15.55.22:971][628]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2016.12.11-15.55.22:971][628]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2016.12.11-15.55.22:978][628]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2016.12.11-15.55.22:978][628]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2016.12.11-15.55.22:978][628]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2016.12.11-15.55.22:978][628]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2016.12.11-15.55.22:978][628]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2016.12.11-15.55.22:978][628]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2016.12.11-15.55.22:996][628]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2016.12.11-15.55.22:996][628]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2016.12.11-15.55.23:001][628]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2016.12.11-15.55.23:001][628]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2016.12.11-15.55.23:001][628]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2016.12.11-15.55.23:001][628]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2016.12.11-15.55.23:047][628]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2016.12.11-15.55.23:047][628]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2016.12.11-15.55.23:047][628]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2016.12.11-15.55.23:068][628]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2016.12.11-15.55.23:068][628]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2016.12.11-15.55.23:070][628]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2016.12.11-15.55.23:071][628]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2016.12.11-15.55.23:071][628]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2016.12.11-15.55.23:071][628]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2016.12.11-15.55.23:071][628]LogModuleManager: Shutting down and abandoning module Core (75)
+[2016.12.11-15.55.23:071][628]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2016.12.11-15.55.23:071][628]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.12.11-15.55.23:071][628]LogDirectoryWatcher: A directory notification for '../../../../../../Users/samuel/Documents/Unreal Projects/Unreal-__-Graphics-Project/Content/' was aborted.
+[2016.12.11-15.55.23:071][628]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.12.11-15.55.23:071][628]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Marketplace/LowEntryExtStdLib/Content/' was aborted.
+[2016.12.11-15.55.23:071][628]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2016.12.11-15.55.23:207][628]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2016.12.11-15.55.23:207][628]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2016.12.11-15.55.23:207][628]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2016.12.11-15.55.23:214][628]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2016.12.11-15.55.23:215][628]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2016.12.11-15.55.23:215][628]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2016.12.11-15.55.23:222][628]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2016.12.11-15.55.23:222][628]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2016.12.11-15.55.23:307][628]LogDerivedDataCache: Shutdown
+[2016.12.11-15.55.23:307][628]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2016.12.11-15.55.23:312][628]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2016.12.11-15.55.23:321][628]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2016.12.11-15.55.23:321][628]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2016.12.11-15.55.23:329][628]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2016.12.11-15.55.23:329][628]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2016.12.11-15.55.23:329][628]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2016.12.11-15.55.23:329][628]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2016.12.11-15.55.23:335][628]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2016.12.11-15.55.23:336][628]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2016.12.11-15.55.23:336][628]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2016.12.11-15.55.23:336][628]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2016.12.11-15.55.23:336][628]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2016.12.11-15.55.23:336][628]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.12.11-15.55.23:336][628]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.12.11-15.55.23:336][628]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.12.11-15.55.23:336][628]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.12.11-15.55.23:336][628]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.12.11-15.55.23:343][628]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2016.12.11-15.55.23:343][628]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2016.12.11-15.55.23:343][628]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2016.12.11-15.55.23:343][628]LogOnline:Display: Unloading online subsystem: NULL
+[2016.12.11-15.55.23:362][628]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2016.12.11-15.55.23:364][628]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.12.11-15.55.23:364][628]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.12.11-15.55.23:380][628]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.11-15.55.23:381][628]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.11-15.55.23:381][628]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.11-15.55.23:381][628]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.11-15.55.23:412][628]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.11-15.55.23:427][628]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.11-15.55.23:427][628]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.11-15.55.23:427][628]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.11-15.55.23:427][628]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.11-15.55.23:427][628]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.11-15.55.23:427][628]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.11-15.55.23:428][628]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.11-15.55.23:428][628]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.11-15.55.23:428][628]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.11-15.55.23:429][628]LogExit: Exiting.
+[2016.12.11-15.55.23:441][628]Log file closed, 12/11/16 09:55:23
